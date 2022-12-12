@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-api/static/css/main.491955fb.css",
-    "main.js": "/react-api/static/js/main.1a9aab47.js",
+    "main.js": "/react-api/static/js/main.fd0d8c54.js",
     "static/js/787.98db79fc.chunk.js": "/react-api/static/js/787.98db79fc.chunk.js",
     "static/media/about.jpg": "/react-api/static/media/about.0122e15433176d677cb3.jpg",
     "static/media/coffeehouse.jpg": "/react-api/static/media/coffeehouse.89fdedaf27ae9524c1d5.jpg",
     "static/media/logo.svg": "/react-api/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-api/index.html",
     "main.491955fb.css.map": "/react-api/static/css/main.491955fb.css.map",
-    "main.1a9aab47.js.map": "/react-api/static/js/main.1a9aab47.js.map",
+    "main.fd0d8c54.js.map": "/react-api/static/js/main.fd0d8c54.js.map",
     "787.98db79fc.chunk.js.map": "/react-api/static/js/787.98db79fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.491955fb.css",
-    "static/js/main.1a9aab47.js"
+    "static/js/main.fd0d8c54.js"
   ]
 }
